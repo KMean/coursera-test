@@ -4,14 +4,16 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body{
+    background-color: #d9ded8;
+}
+
 h1 {
     text-align: center;
     font-size: 175%;
 }
 
-body{
-    background-color: #d9ded8;
-}
+
 h2{
     float: right;
     width: 200px;
